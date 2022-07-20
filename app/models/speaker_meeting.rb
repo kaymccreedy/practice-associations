@@ -1,0 +1,2 @@
+class SpeakerMeeting < ApplicationRecord
+end
